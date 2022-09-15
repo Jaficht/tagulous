@@ -1,0 +1,11 @@
+*.pyc
+django_tagulous.egg-info
+.tox
+.coverage*
+htmlcov
+docs/_*
+build
+dist
+example/db.sqlite3
+example/tagulous
+tests/tagulous_tests_migration/migrations_*
